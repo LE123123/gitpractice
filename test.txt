@@ -4,8 +4,6 @@ subdir-1 >> Hello world!
 
 subdir-2 >> Hello world!
 
-<<<<<<< HEAD
 subdir-3 >> Hello subdir-3!
-=======
+
 subdir-4 >> Hello subdir-4!
->>>>>>> subdir-4
