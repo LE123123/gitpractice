@@ -1,17 +1,1 @@
 Hello world!
-
-subdir-1 >> Hello world!
-
-subdir-2 >> Hello world!
-
-subdir-3 >> Hello subdir-3!
-
-subdir-4 >> Hello subdir-4!
-
-mainbranch hello
-
-mainbranch test1
-
-dev1branch
-
-dev2branch test
